@@ -1,0 +1,2 @@
+# Quelle: https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malware/list.txt
+malware-check.disconnect.me

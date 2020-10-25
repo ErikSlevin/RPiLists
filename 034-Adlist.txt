@@ -1,0 +1,1 @@
+# Quelle: https://raw.githubusercontent.com/hectorm/hmirror/master/data/ransomwaretracker.abuse.ch/list.txt

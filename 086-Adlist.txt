@@ -1,0 +1,71 @@
+# Quelle: https://www.technoy.de/lists/malware2.txt
+#Malware Domains
+#by
+#Technoy.de
+#
+#https://technoy.de/lists/malware2.txt
+#
+#
+# Wildcard Domains
+(\.|^)cpmgatenetwork\.com$
+(\.|^)cpmnetworkcontent\.com$
+(\.|^)gatetocontent\.com$
+(\.|^)passtechusa\.com$
+#
+# Domains
+#
+cdn.popcash.net #JS:Adware.Lnkr.D
+www.houseofferprocarolina.com
+keygenninja.com
+tdsjsext1.life
+pl15733792.cpmnetworkcontent.com #JS:Adware.Popunder.B
+pl15789495.cpmprofitablecontent.com # JS:Adware.Popunder.B
+pl15760142.cpmnetworkcontent.com # JS:Adware.Popunder.B
+pl15717197.gatetocontent.com # JS:Adware.Popunder.B
+pl15763500.cpmnetworkcontent.com #JS:Adware.Popunder.B
+digital-products-pro.com #JS:Trojan.Cryxos.4095
+melispttaa7.live
+werbenetzwerk.inet-adhit24.de #S:Trojan.Cryxos.3099
+cdn.adspectacle.net
+www.hostingcloud.racing #JS:Trojan.Cryxos.3021
+peekscrane.com #JS:Adware.Popunder.B
+pl15527646.gatetocontent.com #JS:Adware.Popunder.B
+myselfjanitor.com #JS:Adware.Popunder.B
+pl15569503.passtechusa.com #JS:Adware.Popunder.B
+tartaria.do.am
+click.greenmobby.com
+www.newartexaminer.net
+settlepineapple.com
+dogeminers.com #Application.CoinMiner.AY
+sharetimes24.com
+gw7eez7b7fa3.com #: JS:Adware.Popunder.B
+www.haidang.org # : JS:Trojan.Cryxos.4465
+tommyperseverance.com # : JS:Adware.Popunder.B
+digital-products-pro.com # : JS:Trojan.Cryxos.4095
+mallowsmother.com # : JS:Adware.Popunder.B
+pl15528864.gatetocontent.com #  JS:Adware.Popund
+judgementinvincible.com # : JS:Adware.Popunder.B
+yip.su
+tapajosdestaque.blogspot.com #: JS:Trojan.Cryxos.4465
+treetoseadesigns.com.au
+elmgals.net
+consultingeastrubber.com # : JS:Adware.Popunder.B
+tabloidsuggest.com # g: JS:Adware.Popunder.B
+pleatglossary.com # : JS:Adware.Popunder.B
+arableredressalacrity.com # : JS:Adware.Popunder.B
+ovyiakt1wzqz.com # JS:Adware.Popunder.B
+socalledsteadilyeducated.com # g: JS:Adware.Popunder.B
+distractiontradingamass.com # : JS:Adware.Popunder.B
+tartaria.do.am
+elmgals.net
+t84c3srgclc9.com
+padsims.com # : JS:Adware.Popunder.B
+www.haidang.org # : JS:Trojan.Cryxos.4465
+reflectionsforeground.com # : JS:Adware.Popunder.B
+peekscrane.com # : JS:Adware.Popunder.B
+static.dreamsadnetwork.com # Trojan.GenericKD.43262285
+pleatglossary.com # : JS:Adware.Popunder.B
+w3plywbd72pf.com # 
+blog.tamariaclinic.com
+decideserveplural4.live
+pox.petfreads.com
